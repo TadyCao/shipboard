@@ -1,8 +1,8 @@
-version: 1.3.1
+version: 1.3.2
 files:
-  - url: ariaPlane-win-1.3.1.exe
-    sha512: YOToFj3Fwc1Iq4mO79+jDnUJWOIkaPbSBda9vz8S8rRyVafo2cPF1MFF64rABL2mQNQwWmTQRnyd/K2BS+yp8A==
-    size: 45885215
-path: ariaPlane-win-1.3.1.exe
-sha512: YOToFj3Fwc1Iq4mO79+jDnUJWOIkaPbSBda9vz8S8rRyVafo2cPF1MFF64rABL2mQNQwWmTQRnyd/K2BS+yp8A==
-releaseDate: '2019-12-25T09:49:35.899Z'
+  - url: ariaPlane-win-1.3.2.exe
+    sha512: mAeEE/MCV8E9oxouxnJ6dcponBTBUbjglsLR+9k1dV8HnJyk6aXW3xKg7HcRLOQBbBz4FZaer2/E8l9agBG5wA==
+    size: 46446601
+path: ariaPlane-win-1.3.2.exe
+sha512: mAeEE/MCV8E9oxouxnJ6dcponBTBUbjglsLR+9k1dV8HnJyk6aXW3xKg7HcRLOQBbBz4FZaer2/E8l9agBG5wA==
+releaseDate: '2019-12-25T10:21:26.382Z'
