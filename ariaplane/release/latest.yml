@@ -1,13 +1,13 @@
-version: 1.3.5
+version: 1.3.6
 files:
-  - url: ariaPlane-win-1.3.5.exe
-    sha512: 042cxy7YO042n8M11ujWJ1hx8ZpwHGEgxwYc75FL+8T62iZVrvdFVUGtv15UBn+44gER3q+wggp7CkYQq76E2A==
-    size: 46446618
-path: ariaPlane-win-1.3.5.exe
-sha512: 042cxy7YO042n8M11ujWJ1hx8ZpwHGEgxwYc75FL+8T62iZVrvdFVUGtv15UBn+44gER3q+wggp7CkYQq76E2A==
-releaseName: New version.
+  - url: ariaPlane-win-1.3.6.exe
+    sha512: 9so6y0iDl0SxgPf9HYXP9aD3XMPlcmuBk+El9dQrMn0Nlp1loy4x3PMaq3c7PrGiUb14aV2pO0XAZSYRJq+iqg==
+    size: 46446608
+path: ariaPlane-win-1.3.6.exe
+sha512: 9so6y0iDl0SxgPf9HYXP9aD3XMPlcmuBk+El9dQrMn0Nlp1loy4x3PMaq3c7PrGiUb14aV2pO0XAZSYRJq+iqg==
+releaseName: 'version ${version}'
 releaseNotes: |-
   1. Support auto update.
   2. Feed rss.
-  3. Merry Christmas
+  3. Merry Christmas!
 releaseDate: 2019/12/25
