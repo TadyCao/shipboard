@@ -1,12 +1,12 @@
-version: 1.3.7
+version: 1.3.8
 files:
-  - url: ariaPlane-win-1.3.7.exe
-    sha512: thCY/cw8TZi3aYB0S7EiQ8ef/rvWSkxbdaDYemVcQk1Hg9+dm1QL1kXqUMUE40Zyfr7emZ1X0qEZRStekuYl4w==
-    size: 46446958
-path: ariaPlane-win-1.3.7.exe
-sha512: thCY/cw8TZi3aYB0S7EiQ8ef/rvWSkxbdaDYemVcQk1Hg9+dm1QL1kXqUMUE40Zyfr7emZ1X0qEZRStekuYl4w==
-releaseName: version 1.3.7
+  - url: ariaPlane-win-1.3.8.exe
+    sha512: o8nNPNuKicYNrZ75o8gcnLecx/qCCtEEq5SL3PcaOrXNIjIln1P0ciu86+1m/ZeOkKWn9yryzwpPuzU+eis3uA==
+    size: 46446929
+path: ariaPlane-win-1.3.8.exe
+sha512: o8nNPNuKicYNrZ75o8gcnLecx/qCCtEEq5SL3PcaOrXNIjIln1P0ciu86+1m/ZeOkKWn9yryzwpPuzU+eis3uA==
+releaseName: version 1.3.8
 releaseNotes: |-
-  Add podcast RSS support.
-   e.g. https://rsshub.app/ximalaya/album/299146
-releaseDate: 2019/12/26
+  1. Add podcast RSS support.
+  2. Fix a bug about setting download path.
+releaseDate: 2019/12/27
