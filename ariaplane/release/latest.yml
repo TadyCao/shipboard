@@ -1,13 +1,12 @@
-version: 1.3.6
+version: 1.3.7
 files:
-  - url: ariaPlane-win-1.3.6.exe
-    sha512: YY6iSXIe4K/46M6FD21IbVpG3d8zj32esv8H60anU/CzpA55oZBfOCPr8Hls5kMlkTMyLjCj1ePJcauHRsrygg==
-    size: 46446810
-path: ariaPlane-win-1.3.6.exe
-sha512: YY6iSXIe4K/46M6FD21IbVpG3d8zj32esv8H60anU/CzpA55oZBfOCPr8Hls5kMlkTMyLjCj1ePJcauHRsrygg==
-releaseName: version 1.3.6
+  - url: ariaPlane-win-1.3.7.exe
+    sha512: thCY/cw8TZi3aYB0S7EiQ8ef/rvWSkxbdaDYemVcQk1Hg9+dm1QL1kXqUMUE40Zyfr7emZ1X0qEZRStekuYl4w==
+    size: 46446958
+path: ariaPlane-win-1.3.7.exe
+sha512: thCY/cw8TZi3aYB0S7EiQ8ef/rvWSkxbdaDYemVcQk1Hg9+dm1QL1kXqUMUE40Zyfr7emZ1X0qEZRStekuYl4w==
+releaseName: version 1.3.7
 releaseNotes: |-
-  1. Support auto update.
-  2. Feed rss.
-  3. Merry Christmas!
+  Add podcast RSS support.
+   e.g. https://rsshub.app/ximalaya/album/299146
 releaseDate: 2019/12/26
