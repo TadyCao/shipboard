@@ -1,12 +1,12 @@
-version: 1.3.8
+version: 1.3.9
 files:
-  - url: ariaPlane-win-1.3.8.exe
-    sha512: 3apkI4ACZGqGxpSRbC00w9qrddQp7qx70aRx65P5yzkgrBMxFuItwFbwc6uLslH5fFOWlg4PuZ15EqmKcdWlSw==
-    size: 46446903
-path: ariaPlane-win-1.3.8.exe
-sha512: 3apkI4ACZGqGxpSRbC00w9qrddQp7qx70aRx65P5yzkgrBMxFuItwFbwc6uLslH5fFOWlg4PuZ15EqmKcdWlSw==
-releaseName: version 1.3.8
+  - url: ariaPlane-win-1.3.9.exe
+    sha512: 7LUXfJQQ4Vd6AUD+n3SaNm2DGrHV2s4iYGfniVK2Cj+1OBr3xwf7LPyITvAdAabNtR/3F8rqhjvIlDPfpq2p8g==
+    size: 46446931
+path: ariaPlane-win-1.3.9.exe
+sha512: 7LUXfJQQ4Vd6AUD+n3SaNm2DGrHV2s4iYGfniVK2Cj+1OBr3xwf7LPyITvAdAabNtR/3F8rqhjvIlDPfpq2p8g==
+releaseName: version 1.3.9
 releaseNotes: |-
-  1. Add podcast RSS support.
-  2. Fix a bug about setting download path.
+  1. Modified pre-name of BT.
+  2. Fixed a bug about the timer for auto-updater.
 releaseDate: 2019/12/27
