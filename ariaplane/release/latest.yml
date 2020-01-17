@@ -1,10 +1,10 @@
 version: 1.3.9
 files:
   - url: ariaPlane-win-1.3.9.exe
-    sha512: DxrafTGa0DYWMCAIxYgCKBqrIQZU9Io+7VFgCrgW+hgKfA5IlmLCFFAbnxit2UlwkVvNV1vO0if2BqZfz6Od2A==
-    size: 46446931
+    sha512: JYj4DTS02qgiUJVzdViXWa7gd2zxsOUIR6IsPJdoGsY3U3lV5Pe0jCySrkDvNcWdalDV6L4pOmH+Mg8jgjSxIg==
+    size: 46446934
 path: ariaPlane-win-1.3.9.exe
-sha512: DxrafTGa0DYWMCAIxYgCKBqrIQZU9Io+7VFgCrgW+hgKfA5IlmLCFFAbnxit2UlwkVvNV1vO0if2BqZfz6Od2A==
+sha512: JYj4DTS02qgiUJVzdViXWa7gd2zxsOUIR6IsPJdoGsY3U3lV5Pe0jCySrkDvNcWdalDV6L4pOmH+Mg8jgjSxIg==
 releaseName: version 1.3.9
 releaseNotes: |-
   1. Modified pre-name of BT.
