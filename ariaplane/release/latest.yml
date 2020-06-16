@@ -1,12 +1,12 @@
-version: 1.3.9
+version: 1.3.10
 files:
-  - url: ariaPlane-win-1.3.9.exe
-    sha512: JYj4DTS02qgiUJVzdViXWa7gd2zxsOUIR6IsPJdoGsY3U3lV5Pe0jCySrkDvNcWdalDV6L4pOmH+Mg8jgjSxIg==
-    size: 46446934
-path: ariaPlane-win-1.3.9.exe
-sha512: JYj4DTS02qgiUJVzdViXWa7gd2zxsOUIR6IsPJdoGsY3U3lV5Pe0jCySrkDvNcWdalDV6L4pOmH+Mg8jgjSxIg==
-releaseName: version 1.3.9
+  - url: ariaPlane-win-1.3.10.exe
+    sha512: mr93diuL9qz9ta4ttVoTysF6pZd1ETq93E0i9NtudqeUHYJTHlobKYkxYgBcL/GQGPbhzxOGNDbQi/BOEbfE6A==
+    size: 46447080
+path: ariaPlane-win-1.3.10.exe
+sha512: mr93diuL9qz9ta4ttVoTysF6pZd1ETq93E0i9NtudqeUHYJTHlobKYkxYgBcL/GQGPbhzxOGNDbQi/BOEbfE6A==
+releaseName: version 1.3.10
 releaseNotes: |-
-  1. Modified pre-name of BT.
-  2. Fixed a bug about the timer for auto-updater.
-releaseDate: 2020/1/17
+  1. Added the default pic for item's cover.
+  2. Fixed bugs.
+releaseDate: 2020/6/16
