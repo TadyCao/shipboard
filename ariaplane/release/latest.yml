@@ -1,10 +1,10 @@
 version: 1.3.10
 files:
   - url: ariaPlane-win-1.3.10.exe
-    sha512: mr93diuL9qz9ta4ttVoTysF6pZd1ETq93E0i9NtudqeUHYJTHlobKYkxYgBcL/GQGPbhzxOGNDbQi/BOEbfE6A==
-    size: 46447080
+    sha512: n/bzsDgp24pG3Z/vAP4dIjQzTiYxieI4USXISUNrJbjEmdESpqnbxPS88GjcSlwa5kqRTq3d1tERoz3KAzhynA==
+    size: 46447082
 path: ariaPlane-win-1.3.10.exe
-sha512: mr93diuL9qz9ta4ttVoTysF6pZd1ETq93E0i9NtudqeUHYJTHlobKYkxYgBcL/GQGPbhzxOGNDbQi/BOEbfE6A==
+sha512: n/bzsDgp24pG3Z/vAP4dIjQzTiYxieI4USXISUNrJbjEmdESpqnbxPS88GjcSlwa5kqRTq3d1tERoz3KAzhynA==
 releaseName: version 1.3.10
 releaseNotes: |-
   1. Added the default pic for item's cover.
