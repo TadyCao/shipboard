@@ -1,10 +1,10 @@
 version: 1.4.1
 files:
   - url: ariaPlane-win-1.4.1.exe
-    sha512: BTEVPU/sxa/y7hYQILkUOPNZZT12hdsskf9QlO1zLFg3QmpSwF/l6fdUlAyG1FzuDMcK+gT7CS2Crk7k+cJ4Ig==
-    size: 46448095
+    sha512: cfgaDOOGOWpQMrWKWQkWSap00T3hX4JSEgxNv/XXpBPCFqKUt68CYCuaz9ZKOb+vQn8fr0UGNy0XxvVily9J4w==
+    size: 47070435
 path: ariaPlane-win-1.4.1.exe
-sha512: BTEVPU/sxa/y7hYQILkUOPNZZT12hdsskf9QlO1zLFg3QmpSwF/l6fdUlAyG1FzuDMcK+gT7CS2Crk7k+cJ4Ig==
+sha512: cfgaDOOGOWpQMrWKWQkWSap00T3hX4JSEgxNv/XXpBPCFqKUt68CYCuaz9ZKOb+vQn8fr0UGNy0XxvVily9J4w==
 releaseName: version 1.4.1
 releaseNotes: '* Added web serve for accessing files.'
 releaseDate: 2020/6/17
