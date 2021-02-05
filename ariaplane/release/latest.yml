@@ -1,10 +1,10 @@
-version: 1.4.1
+version: 1.4.2
 files:
-  - url: ariaPlane-win-1.4.1.exe
-    sha512: cfgaDOOGOWpQMrWKWQkWSap00T3hX4JSEgxNv/XXpBPCFqKUt68CYCuaz9ZKOb+vQn8fr0UGNy0XxvVily9J4w==
-    size: 47070435
-path: ariaPlane-win-1.4.1.exe
-sha512: cfgaDOOGOWpQMrWKWQkWSap00T3hX4JSEgxNv/XXpBPCFqKUt68CYCuaz9ZKOb+vQn8fr0UGNy0XxvVily9J4w==
-releaseName: version 1.4.1
-releaseNotes: '* Added web serve for accessing files.'
-releaseDate: 2020/6/17
+  - url: ariaPlane-win-1.4.2.exe
+    sha512: iEtO+FBFHbqGeIQuVo7czaInEX3JMkjot2HLINisWl7Ypwkn2o0X0e3ZJtzaGzKZhxlvskAPR4oiPbxNFULJjQ==
+    size: 47099842
+path: ariaPlane-win-1.4.2.exe
+sha512: iEtO+FBFHbqGeIQuVo7czaInEX3JMkjot2HLINisWl7Ypwkn2o0X0e3ZJtzaGzKZhxlvskAPR4oiPbxNFULJjQ==
+releaseName: version 1.4.2
+releaseNotes: '* Change update feed address.'
+releaseDate: 2021/2/5
