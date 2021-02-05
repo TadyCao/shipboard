@@ -1,10 +1,10 @@
 version: 1.4.2
 files:
   - url: ariaPlane-win-1.4.2.exe
-    sha512: iEtO+FBFHbqGeIQuVo7czaInEX3JMkjot2HLINisWl7Ypwkn2o0X0e3ZJtzaGzKZhxlvskAPR4oiPbxNFULJjQ==
-    size: 47099842
+    sha512: jcYCKTla5KN7B5eMu0Slb27CLd1kXH0r2LEMeTjFEa949YyUu1js2WvPR8J7WuyZS2xDWfpw7wfnslg9PQneSQ==
+    size: 47099840
 path: ariaPlane-win-1.4.2.exe
-sha512: iEtO+FBFHbqGeIQuVo7czaInEX3JMkjot2HLINisWl7Ypwkn2o0X0e3ZJtzaGzKZhxlvskAPR4oiPbxNFULJjQ==
+sha512: jcYCKTla5KN7B5eMu0Slb27CLd1kXH0r2LEMeTjFEa949YyUu1js2WvPR8J7WuyZS2xDWfpw7wfnslg9PQneSQ==
 releaseName: version 1.4.2
 releaseNotes: '* Change update feed address.'
 releaseDate: 2021/2/5
