@@ -1,10 +1,10 @@
-version: 1.4.3
+version: 1.4.4
 files:
-  - url: ariaPlane-win-1.4.3.exe
-    sha512: rlJpg6eAA7OTSv4eB0df62Nw/0arWRr5+Zbr3dJxTWt2mfMXvTtinxz5iMGw9hEH76hhDDi52EhFw26+GWwp9Q==
-    size: 47099969
-path: ariaPlane-win-1.4.3.exe
-sha512: rlJpg6eAA7OTSv4eB0df62Nw/0arWRr5+Zbr3dJxTWt2mfMXvTtinxz5iMGw9hEH76hhDDi52EhFw26+GWwp9Q==
-releaseName: version 1.4.3
-releaseNotes: '* Hide invalid RSS.'
-releaseDate: 2021/2/22
+  - url: ariaPlane-win-1.4.4.exe
+    sha512: 4pK3Ry9MRWndEax7BChxyiiDy1krOF8XJigbv1wsuYWifJ8iHni7g3/hBfF426HjmTsHCTOn3KxTvUY7X4Q5iw==
+    size: 47100099
+path: ariaPlane-win-1.4.4.exe
+sha512: 4pK3Ry9MRWndEax7BChxyiiDy1krOF8XJigbv1wsuYWifJ8iHni7g3/hBfF426HjmTsHCTOn3KxTvUY7X4Q5iw==
+releaseName: version 1.4.4
+releaseNotes: '* Change sort of RSS list in the selector.'
+releaseDate: 2021/3/8
