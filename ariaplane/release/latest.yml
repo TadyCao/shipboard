@@ -1,10 +1,12 @@
-version: 1.4.4
+version: 1.4.5
 files:
-  - url: ariaPlane-win-1.4.4.exe
-    sha512: 4pK3Ry9MRWndEax7BChxyiiDy1krOF8XJigbv1wsuYWifJ8iHni7g3/hBfF426HjmTsHCTOn3KxTvUY7X4Q5iw==
-    size: 47100099
-path: ariaPlane-win-1.4.4.exe
-sha512: 4pK3Ry9MRWndEax7BChxyiiDy1krOF8XJigbv1wsuYWifJ8iHni7g3/hBfF426HjmTsHCTOn3KxTvUY7X4Q5iw==
-releaseName: version 1.4.4
-releaseNotes: '* Change sort of RSS list in the selector.'
-releaseDate: 2021/3/8
+  - url: ariaPlane-win-1.4.5.exe
+    sha512: UKcnGo25emkF9HWFmtS0oYRfft8acHi1TE5ER7wBHAzDVgvsUZ0g6efP8CvMXM3VY+lp0U8cFDZWLAOn/U+zVg==
+    size: 47100261
+path: ariaPlane-win-1.4.5.exe
+sha512: UKcnGo25emkF9HWFmtS0oYRfft8acHi1TE5ER7wBHAzDVgvsUZ0g6efP8CvMXM3VY+lp0U8cFDZWLAOn/U+zVg==
+releaseName: version 1.4.5
+releaseNotes: |-
+  * Add 'about'.
+  * Change seed of 'Movie' and 'TV'.
+releaseDate: 2021/4/28
